@@ -1,0 +1,162 @@
+[
+       {
+             "name":"Secbus",
+             "text":"Its an application which shows all the given activities performed by accenture and their status to the clients who outsourced the work to accenture. It shows the information using different charts & ui widgets of HTML5/javascript.",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/TS_UTI_01.jpg"}]
+       },
+       {
+             "name":"Vimovo",
+             "text":"This is a web application which demonstrates/showcase the client product's (i.e. medicine) features and capability online. It was intended to be used in iPad. Application provide offline storage capability so that application can be viewed without network connectivity.",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/techBusiness/1.png"},
+                       {"imagePath" : "img/techBusiness/5.PNG"},
+                       {"imagePath" : "img/techBusiness/CNR SGI  TGP Playbook v1.png"}]
+        },
+        {
+             "name":"CNRWidgetV2",
+             "text":"CNRWidgetV2",
+             "url":"https://stg.aaes.accenture.com/CNR_Widget/index.html",
+             "image": [{"imagePath" : "img/techStrategy/TS_CNR_01.jpg"},
+                       {"imagePath" : "img/techStrategy/TS_CNR_02.jpg"},
+                       {"imagePath" : "img/techStrategy/TS_ENE_01.jpg"}]
+       },
+       {
+             "name":"RTA",
+             "text":"RTA",
+             "url":"https://stg.aaes.accenture.com/ResourceTechnologyAccelerated/index.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"SubmitApp",
+             "text":"SubmitApp",
+             "url":"https://aaeshome.accenture.com/compass/jsp",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"AusTaxDept",
+             "text":"AusTaxDept",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"ACE",
+             "text":"ACE",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"CanadaPost",
+             "text":"CanadaPost",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"Grapevine",
+             "text":"Grapevine",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"SIP",
+             "text":"SIP",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"AAT",
+             "text":"AAT",
+             "url":"https://cnrcoe.accenture.com/aat/jsp/",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"CAT",
+             "text":"CAT",
+             "url":"https://cnrcoe.accenture.com/cam/jsp/",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"WPT",
+             "text":"WPT",
+             "url":"https://cnrcoe.accenture.com/wpt/jsp/",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"Tartan",
+             "text":"Tartan",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"DMDeliverables",
+             "text":"DMDeliverables",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"CMS",
+             "text":"CMS",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"SaaS",
+             "text":"SaaS",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"CMCoE",
+             "text":"CMCoE",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        },
+        {
+             "name":"ASMT",
+             "text":"ASMT",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+       },
+       {
+             "name":"CNRWidget",
+             "text":"CNRWidget",
+             "url":"yam.html",
+             "image": [{"imagePath" : "img/image3.jpg"},
+                       {"imagePath" : "img/image2.jpg"},
+                       {"imagePath" : "img/image3.jpg"}]
+        }
+]
